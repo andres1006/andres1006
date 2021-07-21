@@ -2,7 +2,7 @@
 <p><em>Software Enginner at <a href="http://www.umanizales.edu.co">University of Manizales</a>
 </em></p>
 
-[![Linkedin: Andres Agudelo](https://img.shields.io/badge/-johnaagudelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=john-alexander-agudelo-g-43487363)](https://www.linkedin.com/in/andrés-agudelo-b393aa152)
+[![Linkedin: Andres Agudelo](https://img.shields.io/badge/-andresagudelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=john-alexander-agudelo-g-43487363)](https://www.linkedin.com/in/andrés-agudelo-b393aa152)
 [![GitHub andres1006](https://img.shields.io/github/followers/johnaagudelo0820?label=follow&style=social)](https://github.com/andres1006)
 
 
