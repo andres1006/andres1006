@@ -10,7 +10,7 @@
 
 ```javascript
 const Andres = {
-  code: [Javascript, Typescript, HTML, CSS, Python, Dart],
+  code: [Javascript, Typescript, HTML, CSS, Python, Dart, Next, Remix, React ],
 }
 ```
 **Languages and Tools:**
